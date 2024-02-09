@@ -1,10 +1,19 @@
 # <ins> Youtube Data Harvesting  </ins>
 ## <ins> Summary of the project : </ins>
-Data preprocessing, data migration, data collection, data scraping, and business problem solving are all part of this project.
+This project encompasses a comprehensive workflow involving data preprocessing, migration, collection, scraping, and business problem solving. Leveraging the YouTube API, data scraping from YouTube is facilitated, enabling the acquisition of relevant information. Subsequently, MongoDB is utilized for the storage of raw data, ensuring efficient data management.
 <br>
-Using the YouTube API, data scraping is possible from YouTube. After data has been gathered, MongoDB will be used to store the raw data. Unprocessed data from MongoDB is being processed. data that has been processed moved to the MySQL database. Data restoration is carried out after data migration because business questions must be addressed.
+Following data collection, unprocessed data from MongoDB undergoes preprocessing to refine and prepare it for analysis. The processed data is then migrated to a MySQL database for structured storage and accessibility. Data restoration is conducted post-migration to ensure that business questions can be effectively addressed, thereby maximizing the utility of the gathered insights.
 <br>
 <br>
+
+- ** Data Preprocessing : ** Prepare raw data for analysis by refining and structuring it.
+- ** Data Migration : ** Transfer processed data from MongoDB to MySQL database for structured storage.
+- ** Data Collection : ** Utilize YouTube API for scraping relevant data from YouTube platform.
+- ** Data Scraping : ** Gather necessary data from YouTube using scraping techniques.
+- ** Business Problem Solving : ** Address business challenges by deriving insights from collected and processed data.
+- ** Storage Infrastructure : ** Utilize MongoDB for storing raw data and MySQL for structured data storage.
+- ** Data Restoration : ** Ensure data integrity and accessibility post-migration to address business queries effectively.
+
 ## <ins> Here are the few screenshot for this project overview : </ins>
 ### <ins> This is the home page : </ins>
 ![Home Page](https://github.com/Periyasamy107/youtube/assets/118701561/b567337d-bcee-43e6-8eec-a67a7792fd2b)
