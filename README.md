@@ -3,7 +3,6 @@
 This project encompasses a comprehensive workflow involving data preprocessing, migration, collection, scraping, and business problem solving. Leveraging the YouTube API, data scraping from YouTube is facilitated, enabling the acquisition of relevant information. Subsequently, MongoDB is utilized for the storage of raw data, ensuring efficient data management.
 <br>
 <br>
-
 Following data collection, unprocessed data from MongoDB undergoes preprocessing to refine and prepare it for analysis. The processed data is then migrated to a MySQL database for structured storage and accessibility. Data restoration is conducted post-migration to ensure that business questions can be effectively addressed, thereby maximizing the utility of the gathered insights.
 <br>
 <br>
