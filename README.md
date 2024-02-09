@@ -6,13 +6,13 @@ Following data collection, unprocessed data from MongoDB undergoes preprocessing
 <br>
 <br>
 
-- ** Data Preprocessing : ** Prepare raw data for analysis by refining and structuring it.
-- ** Data Migration : ** Transfer processed data from MongoDB to MySQL database for structured storage.
-- ** Data Collection : ** Utilize YouTube API for scraping relevant data from YouTube platform.
-- ** Data Scraping : ** Gather necessary data from YouTube using scraping techniques.
-- ** Business Problem Solving : ** Address business challenges by deriving insights from collected and processed data.
-- ** Storage Infrastructure : ** Utilize MongoDB for storing raw data and MySQL for structured data storage.
-- ** Data Restoration : ** Ensure data integrity and accessibility post-migration to address business queries effectively.
+- **Data Preprocessing** **:**  Prepare raw data for analysis by refining and structuring it.
+- **Data Migration** **:** Transfer processed data from MongoDB to MySQL database for structured storage.
+- **Data Collection** **:** Utilize YouTube API for scraping relevant data from YouTube platform.
+- **Data Scraping** **:** Gather necessary data from YouTube using scraping techniques.
+- **Business Problem Solving** **:** Address business challenges by deriving insights from collected and processed data.
+- **Storage Infrastructure** **:** Utilize MongoDB for storing raw data and MySQL for structured data storage.
+- **Data Restoration** **:** Ensure data integrity and accessibility post-migration to address business queries effectively.
 
 ## <ins> Here are the few screenshot for this project overview : </ins>
 ### <ins> This is the home page : </ins>
