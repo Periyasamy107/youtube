@@ -5,7 +5,7 @@ This project encompasses a comprehensive workflow involving data preprocessing, 
 <br>
 Following data collection, unprocessed data from MongoDB undergoes preprocessing to refine and prepare it for analysis. The processed data is then migrated to a MySQL database for structured storage and accessibility. Data restoration is conducted post-migration to ensure that business questions can be effectively addressed, thereby maximizing the utility of the gathered insights.
 <br>
-<br>
+
 
 - **Data Preprocessing** **:**  Prepare raw data for analysis by refining and structuring it.
 - **Data Migration** **:** Transfer processed data from MongoDB to MySQL database for structured storage.
@@ -14,6 +14,7 @@ Following data collection, unprocessed data from MongoDB undergoes preprocessing
 - **Business Problem Solving** **:** Address business challenges by deriving insights from collected and processed data.
 - **Storage Infrastructure** **:** Utilize MongoDB for storing raw data and MySQL for structured data storage.
 - **Data Restoration** **:** Ensure data integrity and accessibility post-migration to address business queries effectively.
+
 
 ## <ins> Here are the few screenshot for this project overview : </ins>
 ### <ins> This is the home page : </ins>
